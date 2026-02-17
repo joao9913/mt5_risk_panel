@@ -1,0 +1,20 @@
+# Compiled files
+*.ex5
+*.ex4
+
+# Logs
+*.log
+
+#Strategy Tester
+tester/
+
+# Cache
+*.cache
+
+# MetaTrader internal
+profiles/
+bases/
+logs/
+
+# Windows
+Thumbs.db
